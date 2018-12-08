@@ -1,0 +1,42 @@
+html {
+	font-family: verdana, arial, helvetica, sans-serif;
+}
+
+body {
+	background-color: rgb(25, 35, 98);
+	color: white;
+}
+
+h1 {
+	color:white;
+}
+
+h2 {
+	color:white;
+}
+
+a {
+	color:#09c;
+	font-weight:600;
+	text-decoration:none;
+}
+
+a:link {
+	color:#09c;
+}
+
+a:visited {
+	color:#07a;
+}
+
+a:hover {
+	background-color:#0ff;
+}
+
+p {
+	padding-top: 0;
+}
+
+iframe {
+       background-color: rgb(200, 200, 200);	
+}
